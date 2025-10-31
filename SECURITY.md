@@ -10,7 +10,7 @@ We ask that you use one of the following private channels:
 
 1. **GitHub Private Vulnerability Reporting (Preferred)**
 
-   - Navigate to the main page of the "Sweet Spot" repository.
+   - Navigate to the main page of the "Oasis Finder" repository.
 
    - Click on the **Security** tab.
 
