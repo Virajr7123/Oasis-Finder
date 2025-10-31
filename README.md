@@ -304,7 +304,7 @@ This project is proprietary software created by Viraj Sawant. All rights reserve
 
 - 🌐 Portfolio: [https://virajr7123-portfolio-me.netlify.app/]
 - 📧 Email: [sawantviraj976@gmail.com]
-- 🐙 GitHub: [Virajr7123]
+- 🐙 GitHub: [https://github.com/Virajr7123]
 
 ---
 
