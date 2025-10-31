@@ -39,10 +39,6 @@ To protect our users and the integrity of our services, it is critical that all 
 
 - 🚫 **NEVER** commit API keys, Firebase configurations, or other secrets to the repository.
 
-- ✅ This project uses a `.env.local` file (which is included in `.gitignore`) to store all private credentials.
-
-- ✅ An `.env.example` file is provided in the root of the repository. You must copy this file to `.env.local` and populate it with your *own* API keys for development.
-
 ## Scope
 
 We are primarily interested in vulnerabilities in the "Sweet Spot" application code itself. While we appreciate all reports, the following are generally considered out of scope:
